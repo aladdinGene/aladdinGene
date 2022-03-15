@@ -1,8 +1,8 @@
 ## 🙌 Welcome to my profile 🙌
 
-<p style="font-size: 12rem;">I have 5+ years experience in web and mobile development. Until now I made clean and robust code and I did my best for my friends and clients. Nice to meet you.</p>
+<p><b>I have 5+ years experience in web and mobile development. Until now I made clean and robust code and I did my best for my friends and clients. Nice to meet you.</b></p>
 
-<img src="https://www.animoticons.com/files/holidays/easter-smiley-faces/113.gif" width="35" height="35"/> Front-End | Back-End | WEB | Mobile | API | AWS | B2B | B2C | WebRTC | Ecommerce | Market place | Shipping | CRM | OpenCV | Web Scraping
+<img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/rabbit.gif" width="35" height="35"/> Front-End | Back-End | WEB | Mobile | API | AWS | B2B | B2C | WebRTC | Ecommerce | Market place | Shipping | CRM | OpenCV | Web Scraping
 
 😊 I am ready to start your project anytime.
 
@@ -191,5 +191,10 @@
 <p align = "center">
   <img src = "https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/github-status.svg">
   <img src = "https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/languages.svg">
+</p>
+
+<summary> 👋 <b>You're welcome anytime!</b> </summary>
+<p align="center">
+  <img width="400" src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/bye.gif">
 </p>
 </details>
