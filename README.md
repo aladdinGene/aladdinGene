@@ -16,7 +16,7 @@
 - 📫 <b>Programming-languages</b> : HTML / CSS / JavaScript / PHP / Python / Java / C, C++ / Ruby
 
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=talentedexpert0057&column=7&theme=onedark"/>
+    <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/badge.svg"/>
 </p>
 
 ## Used Skills & Tools
