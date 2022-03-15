@@ -26,37 +26,37 @@
    <tr>
       <td align="center" width="96" height="130">
       <a href="#ubuntu" >
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="70" alt="ubuntu" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/android.gif" width="60" alt="ubuntu" />
       </a>
       <br>Ubuntu
     </td>
      <td align="center" width="96" height="130">
       <a href="#digitalocean">
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="70" alt="Digital Ocean" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/javascript.gif" width="60" alt="Digital Ocean" />
       </a>
       <br>Digital Ocean
     </td>
       <td align="center" width="96" height="130">
       <a href="#git" >
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="70" alt="Git" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/java.gif" width="60" alt="Git" />
       </a>
       <br>Git
     </td>
       <td align="center"  width="96" height="130">
       <a href="#vscode">
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="70" alt="Jamstack" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/git.gif" width="60" alt="Jamstack" />
       </a>
       <br>VS Code
     </td>
       <td align="center" width="96" height="130">
       <a href="#postman" >
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="70" alt="Git" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/python.gif" width="60" alt="Git" />
       </a>
       <br>Postman
     </td>
       <td align="center" width="96" height="130">
       <a href="#vuepress" >
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin.jfif" width="70" alt="Git" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/react.gif" width="60" alt="Git" />
       </a>
       <br>VuePress
     </td>
@@ -64,37 +64,37 @@
    <tr>
       <td align="center" width="96" height="130">
       <a href="#ubuntu" >
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="70" alt="ubuntu" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="60" alt="ubuntu" />
       </a>
       <br>Ubuntu
     </td>
      <td align="center" width="96" height="130">
       <a href="#digitalocean">
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="70" alt="Digital Ocean" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="60" alt="Digital Ocean" />
       </a>
       <br>Digital Ocean
     </td>
       <td align="center" width="96" height="130">
       <a href="#git" >
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="70" alt="Git" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="60" alt="Git" />
       </a>
       <br>Git
     </td>
       <td align="center"  width="96" height="130">
       <a href="#vscode">
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="70" alt="Jamstack" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="60" alt="Jamstack" />
       </a>
       <br>VS Code
     </td>
       <td align="center" width="96" height="130">
       <a href="#postman" >
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="70" alt="Git" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="60" alt="Git" />
       </a>
       <br>Postman
     </td>
       <td align="center" width="96" height="130">
       <a href="#vuepress" >
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin.jfif" width="70" alt="Git" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin.jfif" width="60" alt="Git" />
       </a>
       <br>VuePress
     </td>
@@ -102,37 +102,37 @@
    <tr>
       <td align="center" width="96" height="130">
       <a href="#ubuntu" >
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="70" alt="ubuntu" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="60" alt="ubuntu" />
       </a>
       <br>Ubuntu
     </td>
      <td align="center" width="96" height="130">
       <a href="#digitalocean">
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="70" alt="Digital Ocean" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="60" alt="Digital Ocean" />
       </a>
       <br>Digital Ocean
     </td>
       <td align="center" width="96" height="130">
       <a href="#git" >
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="70" alt="Git" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="60" alt="Git" />
       </a>
       <br>Git
     </td>
       <td align="center"  width="96" height="130">
       <a href="#vscode">
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="70" alt="Jamstack" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="60" alt="Jamstack" />
       </a>
       <br>VS Code
     </td>
       <td align="center" width="96" height="130">
       <a href="#postman" >
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="70" alt="Git" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="60" alt="Git" />
       </a>
       <br>Postman
     </td>
       <td align="center" width="96" height="130">
       <a href="#vuepress" >
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin.jfif" width="70" alt="Git" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin.jfif" width="60" alt="Git" />
       </a>
       <br>VuePress
     </td>
@@ -140,37 +140,37 @@
    <tr>
       <td align="center" width="96" height="130">
       <a href="#ubuntu" >
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="70" alt="ubuntu" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="60" alt="ubuntu" />
       </a>
       <br>Ubuntu
     </td>
      <td align="center" width="96" height="130">
       <a href="#digitalocean">
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="70" alt="Digital Ocean" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="60" alt="Digital Ocean" />
       </a>
       <br>Digital Ocean
     </td>
       <td align="center" width="96" height="130">
       <a href="#git" >
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="70" alt="Git" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="60" alt="Git" />
       </a>
       <br>Git
     </td>
       <td align="center"  width="96" height="130">
       <a href="#vscode">
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="70" alt="Jamstack" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="60" alt="Jamstack" />
       </a>
       <br>VS Code
     </td>
       <td align="center" width="96" height="130">
       <a href="#postman" >
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="70" alt="Git" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="60" alt="Git" />
       </a>
       <br>Postman
     </td>
       <td align="center" width="96" height="130">
       <a href="#vuepress" >
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin.jfif" width="70" alt="Git" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin.jfif" width="60" alt="Git" />
       </a>
       <br>VuePress
     </td>
@@ -178,37 +178,37 @@
    <tr>
       <td align="center" width="96" height="130">
       <a href="#ubuntu" >
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="70" alt="ubuntu" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="60" alt="ubuntu" />
       </a>
       <br>Ubuntu
     </td>
      <td align="center" width="96" height="130">
       <a href="#digitalocean">
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="70" alt="Digital Ocean" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="60" alt="Digital Ocean" />
       </a>
       <br>Digital Ocean
     </td>
       <td align="center" width="96" height="130">
       <a href="#git" >
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="70" alt="Git" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="60" alt="Git" />
       </a>
       <br>Git
     </td>
       <td align="center"  width="96" height="130">
       <a href="#vscode">
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="70" alt="Jamstack" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="60" alt="Jamstack" />
       </a>
       <br>VS Code
     </td>
       <td align="center" width="96" height="130">
       <a href="#postman" >
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="70" alt="Git" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin" width="60" alt="Git" />
       </a>
       <br>Postman
     </td>
       <td align="center" width="96" height="130">
       <a href="#vuepress" >
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin.jfif" width="70" alt="Git" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/Kotlin.jfif" width="60" alt="Git" />
       </a>
       <br>VuePress
     </td>
