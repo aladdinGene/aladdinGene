@@ -189,7 +189,7 @@
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=talentedexpert0057&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=talentedexpert0057&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <img src = "https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/github-status.svg">
+  <img src = "https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/languages.svg">
 </p>
 </details>
