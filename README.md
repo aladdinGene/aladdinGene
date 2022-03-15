@@ -184,7 +184,7 @@
     </td>
      <td align="center" width="96" height="130">
       <a href="#digitalocean">
-        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/c#.png" width="60" style="margin-bottom:10px;" alt="Digital Ocean" />
+        <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/c&#x23;.png" width="60" style="margin-bottom:10px;" alt="Digital Ocean" />
       </a>
       <br>Digital Ocean
     </td>
