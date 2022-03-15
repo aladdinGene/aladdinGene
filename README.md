@@ -2,7 +2,7 @@
 
 <span style="font-size: 10rem"><b>As a senior frontend & backend web developer, I have rich experience & history for 8 years over in the web field.</b></span>
 <iframe src="https://giphy.com/embed/AWNxDbtHGIJDW" width="398" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/watch-apple-alle-AWNxDbtHGIJDW">via GIPHY</a></p>
-<img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif" width="25" height="25"/> Front-End | Back-End | WEB | Mobile | API | AWS | BOT | B2B | B2C | WebRTC | Ecommerce | Market place | Shipping | CRM | OpenCV | Web Scraping
+<img src="https://giphy.com/embed/AWNxDbtHGIJDW" width="25" height="25"/> Front-End | Back-End | WEB | Mobile | API | AWS | BOT | B2B | B2C | WebRTC | Ecommerce | Market place | Shipping | CRM | OpenCV | Web Scraping
 
 😊 I am ready to start your project anytime.
 
