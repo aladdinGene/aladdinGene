@@ -1,6 +1,6 @@
 ## 🙌 Welcome to my profile 🙌
 
-<img src="https://www.animoticons.com/files/holidays/easter-smiley-faces/113.gif" width="25" height="25"/> Front-End | Back-End | WEB | Mobile | API | AWS | BOT | B2B | B2C | WebRTC | Ecommerce | Market place | Shipping | CRM | OpenCV | Web Scraping
+<img src="https://www.animoticons.com/files/holidays/easter-smiley-faces/113.gif" width="35" height="35"/> Front-End | Back-End | WEB | Mobile | API | AWS | BOT | B2B | B2C | WebRTC | Ecommerce | Market place | Shipping | CRM | OpenCV | Web Scraping
 
 😊 I am ready to start your project anytime.
 
