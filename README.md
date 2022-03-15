@@ -1,4 +1,4 @@
-## Hi 👋👋👋 Welcome to my profile.✌🏼
+## Hi 🙌 Welcome to my profile.
 <span style="font-size: 10rem"><b>[ React.JS - Redux / Next.js / Vue.js / Angular / TypeScript / Node.js / Express ]</b></span>
 
 As a senior frontend & backend web developer, I have rich experience & history for 8 years over in the web field.
@@ -7,15 +7,16 @@ As a senior frontend & backend web developer, I have rich experience & history f
 
 👏 Feel free to contact me if you have an Idea or project.
 
-## Core skills
+## Skills
 
-- 🔭 I am ready to start your project anytime.
+- 😊 I am ready to start your project anytime.
 
-- 🌱 <b>Front-end</b> : React js - Redux / Next.js / Svelte / TypeScript / Vue.js /Angular /JQuery / Bootstrap / React Native / Flutter
-- 👨‍💻 <b>Back-end</b> : Node.js / Express / Django / Laravel
+- 🌱 <b>Front-end</b> : React js - Redux / Next.js / Svelte / TypeScript / Vue.js / Angular / JQuery / Bootstrap / Kendo UI
+- 👨‍💻 <b>Back-end</b> : Laravel / Node.js / Express / Django / Flask / ASP.NET / Ruby on Rails
+- <b>Mobile</b> : Android - Java, Kotlin / iOS - Objective-C, Swift / Hybrid - Flutter, React Native
 - 💬 <b>Database</b> : Mysql / MongoDB / PostgreSQL / MariaDB / SQlite
-- 🐱‍🐉 <b>CMS</b> : Wordpress, Shopify, Magento, Prestashop.
-- 📫 <b>Programming-languages</b> : JavaScript / HTML / CSS / PHP / Python
+- 🐱‍🐉 <b>CMS</b> : Wordpress / Shopify / Magento / Prestashop / Zoho
+- 📫 <b>Programming-languages</b> : HTML / CSS / JavaScript / PHP / Python / Java / C, C++ / Ruby
 
 <p align="center" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app/?username=talentedexpert0057&column=7&theme=onedark"/>
