@@ -1,6 +1,8 @@
 ## 🙌 Welcome to my profile 🙌
 
-<img src="https://www.animoticons.com/files/holidays/easter-smiley-faces/113.gif" width="35" height="35"/> Front-End | Back-End | WEB | Mobile | API | AWS | BOT | B2B | B2C | WebRTC | Ecommerce | Market place | Shipping | CRM | OpenCV | Web Scraping
+<p style="font-size: 12rem;">I have 5+ years experience in web and mobile development. Until now I made clean and robust code and I did my best for my friends and clients. Nice to meet you.</p>
+
+<img src="https://www.animoticons.com/files/holidays/easter-smiley-faces/113.gif" width="35" height="35"/> Front-End | Back-End | WEB | Mobile | API | AWS | B2B | B2C | WebRTC | Ecommerce | Market place | Shipping | CRM | OpenCV | Web Scraping
 
 😊 I am ready to start your project anytime.
 
