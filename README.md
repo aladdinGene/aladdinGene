@@ -4,7 +4,7 @@
 
 <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/rabbit.gif" width="35" height="35"/> Front-End | Back-End | WEB | Mobile | API | AWS | B2B | B2C | WebRTC | Ecommerce | Market place | Shipping | CRM | OpenCV | Web Scraping
 
-😊 I am ready to start your project anytime.
+<img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/8TEoXxyzc.gif" width="35" height="35"/> I am ready to start your project anytime.
 
 ## Skills
 
