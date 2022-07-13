@@ -2,7 +2,7 @@
 
 <p><b>I have 5+ years experience in web and mobile development. Until now I made clean and robust code and I did my best for my friends and clients. Nice to meet you.</b></p>
 
-<img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/rabbit.gif" width="35" height="35"/> Front-End | Back-End | WEB | Mobile | API | AWS | B2B | B2C | WebRTC | Ecommerce | Market place | Shipping | CRM | OpenCV | Web Scraping
+<img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/rabbit.gif" width="35" height="35"/>      Front-End | Back-End | WEB | Mobile | API | AWS | B2B | B2C | WebRTC | Ecommerce | Market place | Shipping | CRM | OpenCV | Web Scraping
 
 <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/8TEoXxyzc.gif" width="60" height="45"/> I am ready to start your project anytime.
 
