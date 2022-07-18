@@ -12,7 +12,7 @@
 - 👨‍💻 <b>Back-end</b> : Laravel / Node.js / Express / Django / Flask / ASP.NET / Ruby on Rails
 - 📱 <b>Mobile</b> : Android - Java, Kotlin / iOS - Objective-C, Swift / Hybrid - Flutter, React Native
 - 🛢 <b>Database</b> : Mysql / MongoDB / PostgreSQL / MariaDB / SQlite
-- ⚛ <b>CMS</b> : Wordpress / Shopify / Magento / Prestashop / Zoho
+- ⚛ <b>CMS/CRM</b> : Wordpress / Shopify / Magento / Prestashop / Zoho
 - 🌐 <b>Programming-languages</b> : HTML / CSS / JavaScript / PHP / Python / Java / C, C++ / Ruby
 
 <p align="center" style="margin-bottom: 10px;">
