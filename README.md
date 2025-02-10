@@ -1,14 +1,14 @@
 ## 🙌 Welcome to my profile 🙌
 
-<p><b>I have 5+ years experience in web and mobile development. Until now I made clean and robust code and I did my best for my friends and clients. Nice to meet you.</b></p>
+<p><b>I have 10+ years experience in web and mobile development. Until now I made clean and robust code and I did my best for my friends and clients. Nice to meet you.</b></p>
 
-<img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/rabbit_aladdinGene.gif" width="35" height="35"/> Front-End | Back-End | WEB | Mobile | API | AWS | B2B | B2C | WebRTC | Ecommerce | Market place | Shipping | CRM | OpenCV | Web Scraping
+<img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/rabbit_aladdinGene.gif" width="35" height="35"/> Front-End | Back-End | Blockchain | AI/ML | WEB | Mobile | API | AWS | B2B | B2C | Ecommerce | Market place | CRM | Web Scraping
 
 <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/8TEoXxyzc_aladdinGene.gif" width="35" height="35"/> I am ready to start your project anytime.
 
 ## Skills
 
-- 🖥️ <b>Front-end</b> : React js - Redux / Next.js / Svelte / TypeScript / Vue.js / Angular / JQuery / Bootstrap / Kendo UI
+- 🖥️ <b>Front-end</b> : Next.js(React) / Nuxt.js(Vue) / Svelte / TypeScript / Angular / JQuery / Bootstrap / Kendo UI
 - 👨‍💻 <b>Back-end</b> : Laravel / Node.js / Express / Django / Flask / ASP.NET / Ruby on Rails
 - 📱 <b>Mobile</b> : Android - Java, Kotlin / iOS - Objective-C, Swift / Hybrid - Flutter, React Native
 - 🛢 <b>Database</b> : Mysql / MongoDB / PostgreSQL / MariaDB / SQlite
@@ -194,7 +194,4 @@
 </p>
 
 <summary> 👋 <b>You're welcome anytime!</b> </summary>
-<p align="center">
-  <img width="400" src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/bye_aladdinGene.gif">
-</p>
 </details>
