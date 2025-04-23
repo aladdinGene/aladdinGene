@@ -1,6 +1,6 @@
 ## 🙌 Welcome to my profile 🙌
 
-<p><b>I have 10+ years experience in web and mobile development. Until now I made clean and robust code and I did my best for my friends and clients. Nice to meet you.</b></p>
+<p><b>I have 8+ years experience in web and mobile development. Until now I made clean and robust code and I did my best for my friends and clients. Nice to meet you.</b></p>
 
 <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/rabbit_aladdinGene.gif" width="35" height="35"/> Front-End | Back-End | Blockchain | AI/ML | WEB | Mobile | API | AWS | B2B | B2C | Ecommerce | Market place | CRM | Web Scraping
 
